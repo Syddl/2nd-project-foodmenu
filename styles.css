@@ -1,0 +1,106 @@
+body {
+    background-color: white;
+    font-family: impact, serif;
+    padding: 20px;
+}
+
+.border {
+    background-color: #b99575;
+    border-radius: 10px;
+    height: 885px;
+    padding-left: auto;
+    width: 600px;
+}
+
+
+.restaurant-name {
+    color: #b99575;
+    font-size: 25px;
+    padding: 0px, 10px;
+    height: 64px;
+    max-width: 500px;
+    background-color: #242424;
+    margin: auto;
+    text-align: center;
+}
+
+
+div {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+h1, h2, p, .restaurant-name {
+    text-align: center;
+}
+
+.choices {
+    color: #b99575;
+    font-size: 30px;
+    padding: 0px, 10px;
+    max-width: 500px;
+    background-color: #242424;
+    height: 53px;
+}
+
+.breakfast {
+    background-color: #b99575;
+    color: #242424;
+    width: 472px;
+    background-color: #b99575;
+    padding-top: 8px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: #242424;
+    border-radius: 0;
+    max-width: 500px;
+    
+}
+
+.item {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.food, .price {
+    text-align: left;
+    width: 75%;
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+.meals {
+    background-color: #b99575;
+    color: #242424;
+    width: 472px;
+    background-color: #b99575;
+    padding-top: 8px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: #242424;
+    border-radius: 0;
+    max-width: 500px;
+
+.foods {
+    
+    color: #b99575;
+    font-size: 30px;
+    padding: 0px, 10px;
+    max-width: 500px;
+    background-color: #242424;
+    height: 53px; 
+}
